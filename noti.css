@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+h1, h3{
+  font-family: "Anton", sans-serif !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+}
+body {
+    font-family:Arial,"Liberation Sans",sans-serif;
+  }
+  
+  h1, p {
+    margin:5px;
+    width:90%;
+   
+  }
+  
+  p {
+    color:#7d7d7d;
+  }
+  
+  .someElement1 {
+    width:90%;
+    height:400px;
+    margin:20px;
+    clear:both;
+    float:left;
+  }
+  
+  .someElement1 img {
+    min-height:400px;
+    min-width:711px;
+  }
+  
+  
